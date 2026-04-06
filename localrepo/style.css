@@ -1,0 +1,25 @@
+h1{
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: black;
+}
+button{
+    color: brown;
+}
+body {
+    background-color:pink;
+}
+
+.heading{
+    color: red;
+}
+
+#classone{
+    color: blue;
+}
+.class1{
+    background-color: blueviolet;
+}
