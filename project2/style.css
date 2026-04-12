@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(85, 30, 30);
+}
+.container{
+    max-width: 900vh;
+    margin: 0 auto;
+}
+.apply_box{
+    max-width: 600px;
+    padding: 20px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow:  5px 5px 5px rgb(25, 16, 16);
+}
